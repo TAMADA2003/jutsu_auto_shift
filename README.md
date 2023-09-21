@@ -1,7 +1,7 @@
 # jutsu_auto_shift
 
-Этот скрипт предоставляет автоматическую возможность открытия браузера с заданной ссылкой, изменения размера окна, переключения вкладок и прокрутки серий.
+This script provides an automatic ability to open a browser with a given link, change the size of the window, switch tabs and scroll through series.
 
-Важные указания:
+Important instructions:
 
-Для того чтобы использовать скрипт, вам нужно вставить ссылку в файл finde.txt.
+In order to use the script, you need to paste the link into the finde.txt file.
